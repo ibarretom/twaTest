@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.netlify.superlative_gumdrop_f7172c.twa",
+      "sha256_cert_fingerprints": [
+        "C9:C4:9E:F1:AF:C2:4A:60:CF:61:FD:B4:BB:5E:B6:75:5E:C9:A5:E1:E0:B5:57:89:A9:0C:6C:A5:8F:20:A5:58"
+      ]
+    }
+  }
+]
